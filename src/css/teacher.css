@@ -1,0 +1,54 @@
+.teacher-container {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  padding: 20px;
+  margin-top: 50px;
+  
+}
+
+
+.teacher-container-title {
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+  
+  
+  
+}
+
+.teachers-card{
+  display: flex;
+  justify-content: center;
+  padding-top: 75px;
+}
+
+
+.teacher {
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #ccc;
+}
+
+.teacher:hover {
+  background-color: #f9f9f9;
+}
+
+.teacher-img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+
+.teacher-name {
+  font-size: 16px;
+  text-align: center;
+}

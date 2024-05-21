@@ -1,0 +1,22 @@
+.fullstack-path{
+text-align: center;
+margin-top: 75px;
+}
+
+
+
+.learn-btn{
+    display: flex;
+    justify-content: center;
+    height: 45px;
+    width: 100px;
+    border-radius: 10px;
+    background-color: rgb(57, 213, 57);
+    border: none;
+    color: #fff;
+    padding-top: 7.5px;
+    margin-top: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    
+}

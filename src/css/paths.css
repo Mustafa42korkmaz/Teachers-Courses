@@ -1,0 +1,37 @@
+.paths-title{
+    text-align: center;
+    margin-top: 75px;
+}
+p{
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    font-size: larger;
+    margin-top: 120px;
+    
+}
+.sticks{
+    display: flex;
+    justify-self: center;
+    text-align: center;
+    margin: 0 25px;
+    
+}
+
+.fullstack{
+    background-color: rgb(57, 213, 57);
+    border-radius: 10px;
+    width: 50%;
+    height: 25px;
+    border: none;
+    color: #fff;
+    text-decoration: none;
+}
+.Aws-Devops{
+    background-color: rgb(241, 249, 7);
+    border-radius: 10px;
+    width: 50%;
+    height: 25px;
+    border: none;
+    text-decoration: none;
+    color: black;
+}
