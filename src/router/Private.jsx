@@ -6,7 +6,7 @@ const Private = () => {
 
   return (
     <div>
-      {user ? <Outlet/> : <Navigate to="/login" />}
+      {user ? <Outlet/> : <Navigate to="/contact" />}
     </div>
   )
 }
